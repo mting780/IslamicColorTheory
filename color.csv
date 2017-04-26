@@ -1,0 +1,6 @@
+Parent,children,ID
+White,StrawYellow,0
+StrawYellow, LemonYellow,5
+LemonYellow,Rosy,7
+Rosy, EveningRed,6
+

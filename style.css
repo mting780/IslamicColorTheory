@@ -1,0 +1,175 @@
+font-family: 'Asar', serif;
+
+        path {
+            fill: none;
+            stroke-width: 1px;
+            stroke: #222;
+
+        }
+        .node circle {
+  fill: #fff;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+h2 {
+  font-family: 'Asar';
+}
+
+body {
+  background-color: #fffffc;
+  font-family:'Asar';
+  line-height: 210%;
+}
+
+.header {
+  font-size: 48px;
+  margin: 100px auto;
+  height: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+#avicenna {
+  display: inline-block;
+  float: right;
+
+}
+
+
+.intro {
+  font-size: 27px;
+  width: 800px;
+  height:400;
+  margin: 150px auto;
+  text-align: center;
+  top: 30%;
+  display: block;
+  text-align: justify;
+}
+
+
+#reference {
+  font-size: 27px;
+  width: 800px;
+  height:400px;
+  margin: 0 auto;
+  clear:both;
+  display: block;
+  text-align: justify;
+}
+
+p.content {
+  font-style: italic;
+  margin: 10% 10% 10% 15%;
+
+}
+
+
+
+.base circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;  
+}
+.words {
+  margin-top: 50px;
+}
+
+.base text {
+      font: 12px sans-serif;
+
+}
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ddd ;
+  stroke-width: 2px;
+}
+.canvas {
+    text-align: center;
+    display: inline-block;
+    float:left;
+    margin: 0% 5% 15% 15%
+
+}
+.canvas2 {
+  text-align: center;
+    display: inline-block;
+    float:left;
+    margin: 0% 0% 0% 5%
+
+}
+
+.words {
+  font-size: 27px;
+  width: 800px;
+  height:400px;
+  margin: 0% auto;
+  text-align: justify;
+  display: block;
+  clear:both;
+
+
+
+}
+#details {
+  display: inline-block;
+  border: solid;
+  width: 400px;
+  height: 600px;
+  float: right;
+  margin: 5% 10% 10% 15%;
+}
+
+
+#a_details {
+  display: inline-block;
+  border: solid;
+  width: 400px;
+  height: 600px;
+  float: left;
+  margin: 5% 5% 10% 10%;
+
+}
+
+.explain{
+  line-height: 150%;
+  margin: 5% 10% 10% 15%;
+  text-align: justify;
+}
+
+#a_d {
+  text-align: center;
+  margin: 15% 15% 15% 20%;
+}
+
+#t_d {
+  text-align: center;
+  margin: 15% 15% 15% 20%;
+}
+
+#tusi {
+  display: inline-block;
+  float: left;
+}
+
+.descrip{
+  display: inline-block;
+  text-align: center;
+  margin: 15% 15%;
+}
+
+.toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 14px;
+  text-align: center;
+}
